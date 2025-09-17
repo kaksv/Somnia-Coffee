@@ -58,16 +58,16 @@ Whether you're a creator, supporter, or builder—Buy Me a Coffee on Somnia is y
 
 - 🌐 Website: _Coming Soon_
 - 🛠️ GitHub: _Coming Soon_
-- 📢 Twitter: [@BuyMeCoffeeSomnia](https://twitter.com)
-- 💬 Discord: _Coming Soon_
+- 📢 Twitter: [@kakoozavian](https://twitter.com/kakoozavian)
+- 💬 Discord: kakooza_vian
 
 ---
 
 ## 📬 Contact
 
 For partnerships, collaborations, or early access:
-**Email:** hello@buymeacoffee.somnia  
-**Telegram:** @BuyMeCoffeeSomnia
+**Email:** kakoozavian@gmail.com  
+**Telegram:** @kakoozavian
 
 ---
 
